@@ -13,7 +13,7 @@ public class AStar : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         InitMap();
-
+print("234");
         Point start = map[2, 3];
         Point end = map[6, 3];
 
