@@ -18,7 +18,7 @@ public class AStar : MonoBehaviour {
         Point end = map[6, 3];
 
         FindPath(start, end);
-
+        print("qwer");
 	}
 
     private void InitMap()
