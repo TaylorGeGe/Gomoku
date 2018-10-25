@@ -14,6 +14,7 @@ public class AStar : MonoBehaviour {
 	void Start () {
         InitMap();
 print("234");
+        print("本地第二次提交");
         Point start = map[2, 3];
         Point end = map[6, 3];
 
